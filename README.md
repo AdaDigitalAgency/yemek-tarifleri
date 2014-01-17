@@ -5,6 +5,7 @@ Mutfakta harikalar yaratmak isteyen (ya da aç kalmak istemeyen) yazılımcılar
 ## Tarifler ##
 
 - [Mercimek Çorbası](https://github.com/creasoup/yemek-tarifleri/blob/master/mercimek-corbasi.md)
+- [Kaynar](https://github.com/creasoup/yemek-tarifleri/blob/master/kaynar.md)
 
 
 ### Yasal Uyarı ###
