@@ -29,7 +29,7 @@
 
 - Kesme tahtası
 - Bıçak
-- Meyve/Sebze soyacağı (Alternatif olarak [şu eldivenler](http://urun.gittigidiyor.com/ev-bahce/patates-soyma-eldiveni-8-saniyede-patates-soyun-100515406) de kullanılabilir.)
+- Meyve/Sebze soyacağı (Alternatif olarak [şu eldivenler](http://www.gittigidiyor.com/arama/?k=patates+soyma+eldiveni) de kullanılabilir.)
 - Çay bardağı
 - Yemek kaşığı
 - Çorba kasesi
