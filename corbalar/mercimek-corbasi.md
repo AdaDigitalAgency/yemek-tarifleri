@@ -37,19 +37,19 @@ Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 
 - Kesme tahtası
 - Bıçak
-- Meyve/Sebze soyacağı*
+- Meyve/Sebze soyacağı°
 - Çay bardağı
 - Yemek kaşığı
 - Çorba kasesi
-- Tencere*\*
-- Tahta yemek kaşığı*\*\*
-- El blenderı*\*\*\*
-- Küçük bir tava*\*
+- Tencere°°
+- Tahta yemek kaşığı°°°
+- El blenderı°°°°
+- Küçük bir tava°°
 
-_* Alternatif olarak [şu eldivenler](http://www.gittigidiyor.com/arama/?k=patates+soyma+eldiveni) de kullanılabilir_  
-_*\* Çelik ya da teflon tercih sebebi_  
-_*\*\* Tencere teflon ise özellikle tahta olmasına dikkat edin_  
-_*\*\*\* Süzme mercimek kıvamı için olmazsa olmaz_
+_° Alternatif olarak [şu eldivenler](http://www.gittigidiyor.com/arama/?k=patates+soyma+eldiveni) de kullanılabilir_  
+_°° Çelik ya da teflon tercih sebebi_  
+_°°° Tencere teflon ise özellikle tahta olmasına dikkat edin_  
+_°°°° Süzme mercimek kıvamı için olmazsa olmaz_
 
 ## Ön hazırlık ##
 
