@@ -1,5 +1,13 @@
 # Mercimek Çorbası #
 
+Yemek yapmaya uzak kişiler ya da hazır çorba tüketen kişiler için çorba yapma fikri biraz ürkütücü olabilir, fakat bir çok çorba aslen oldukça kolay bir şekilde yapılabiliyor. (Çoğunun tarifinin birbirlerine çok benzer olduğunu söyleyebilirim) Bu tarif ile el blenderına sahip kişiler süzme mercimek çorbası kıvamını yakalayabileceklerken, olmayanlar ise, taneli, hafiften yemeğe benzeyen kıvamda bir çorba yapabilecekler.
+
+Afiyet olsun!
+
+Zorluk seviyesi: ★★★★☆☆☆☆☆☆
+
+## İçindekiler ##
+
 - [Tanımlar](#tanimlar)
 - [Malzemeler](#malzemeler)
 - [Alet Edavat](#alet-edavat)
@@ -29,14 +37,19 @@
 
 - Kesme tahtası
 - Bıçak
-- Meyve/Sebze soyacağı (Alternatif olarak [şu eldivenler](http://urun.gittigidiyor.com/ev-bahce/patates-soyma-eldiveni-8-saniyede-patates-soyun-100515406) de kullanılabilir.)
+- Meyve/Sebze soyacağı*
 - Çay bardağı
 - Yemek kaşığı
 - Çorba kasesi
-- Tencere (Çelik ya da teflon tercih sebebi)
-- Tahta yemek kaşığı (Tencere teflon ise özellikle tahta olmasına dikkat edin)
-- El Blender'ı (Süzme mercimek kıvamı için olmazsa olmaz)
-- Küçük bir tava (tercihen teflon)
+- Tencere*\*
+- Tahta yemek kaşığı*\*\*
+- El blenderı*\*\*\*
+- Küçük bir tava*\*
+
+_* Alternatif olarak [şu eldivenler](http://www.gittigidiyor.com/arama/?k=patates+soyma+eldiveni) de kullanılabilir_  
+_*\* Çelik ya da teflon tercih sebebi_  
+_*\*\* Tencere teflon ise özellikle tahta olmasına dikkat edin_  
+_*\*\*\* Süzme mercimek kıvamı için olmazsa olmaz_
 
 ## Ön hazırlık ##
 
