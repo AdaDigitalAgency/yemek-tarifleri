@@ -23,7 +23,7 @@ Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 - Sıvı ayçiçek yağı - Yarım çay bardağı
 - Patates - 2 adet, orta boy
 - Havuç - 1 adet
-- Soğan - 1 adet, boy
+- Soğan - 1 adet, orta boy
 - Kırmızı mercimek - 1 çorba kasesi
 - Pirinç - 1/4 çorba kasesi
 - Margarin - 1 yemek kaşığı
