@@ -15,27 +15,27 @@ Zorluk seviyesi: ★★★☆☆☆☆☆☆☆
 
 ## Malzemeler ##
 
-- Pötübör\* bisküvi - 2 paket
+- Pötübör° bisküvi - 2 paket
 - Hazır puding tozu - 1 paket
-- Süt\*\*
-- Kıyılmış\*\*\* hindistan cevizi || fındık - 1 paket
+- Süt°°
+- Kıyılmış°°° hindistan cevizi || fındık - 1 paket
 
-_\* Petit beurre diye yazılır pötübör diye okunur_  
-_\*\* Puding paketinin arkasındaki tarifte belirtildiği kadar, genelde 750 ml (yaklaşık 3 su bardağı) olur_  
-_\*\*\* Kıyılmış yazmasak meyvenin kendisini kullanmaya çalışanlar olabileceğini düşündük, evet biraz abarttık_
+_° Petit beurre diye yazılır pötübör diye okunur_  
+_°° Puding paketinin arkasındaki tarifte belirtildiği kadar, genelde 750 ml (yaklaşık 3 su bardağı) olur_  
+_°°° Kıyılmış yazmasak meyvenin kendisini kullanmaya çalışanlar olabileceğini düşündük, evet biraz abarttık_
 
 ## Alet Edavat ##
 
-- Tencere\*
-- Tahta yemek kaşığı\*\*
-- Silikon spatula\*\*\*
+- Tencere°
+- Tahta yemek kaşığı°°
+- Silikon spatula°°°
 - Geniş bir tabak
 - Buzdolabı
 
 
-_\*\* Çelik ya da teflon tercih sebebi_  
-_\*\* Tencere teflon ise özellikle tahta olmasına dikkat edin_  
-_\*\*\* [Şöyle](http://www.gittigidiyor.com/arama/?k=silikon+spatula) bir şey oluyor kendileri. Özellikle puding kıvamındaki şeyleri tencerelerden sıyırmak için ve sürmek birebir._
+_° Çelik ya da teflon tercih sebebi_  
+_°° Tencere teflon ise özellikle tahta olmasına dikkat edin_  
+_°°° [Şöyle](http://www.gittigidiyor.com/arama/?k=silikon+spatula) bir şey oluyor kendileri. Özellikle puding kıvamındaki şeyleri tencerelerden sıyırmak için ve sürmek birebir._
 
 ## Yapılışı ##
 
