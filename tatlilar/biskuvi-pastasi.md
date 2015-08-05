@@ -18,7 +18,7 @@ Zorluk seviyesi: ★★★☆☆☆☆☆☆☆
 - Pötübör° bisküvi - 2 paket
 - Hazır puding tozu - 1 paket
 - Süt°°
-- Kıyılmış°°° hindistan cevizi || fındık - 1 paket
+- Kıyılmış°°° (hindistan cevizi || fındık) - 1 paket
 
 _° Petit beurre diye yazılır pötübör diye okunur_  
 _°° Puding paketinin arkasındaki tarifte belirtildiği kadar, genelde 750 ml (yaklaşık 3 su bardağı) olur_  
