@@ -10,12 +10,15 @@ Mutfakta harikalar yaratmak isteyen (ya da aç kalmak istemeyen) yazılımcılar
 
 ### Yemekler
 
-- [Kuru Fasulye](https://github.com/creasoup/yemek-tarifleri/blob/master/yemekler/kuru-fasulye.md)
+- [Kuru Fasulye (Tamamlanmamış)](https://github.com/creasoup/yemek-tarifleri/blob/master/yemekler/kuru-fasulye.md)
 
 ### İçecekler
 
 - [Kaynar](https://github.com/creasoup/yemek-tarifleri/blob/master/icecekler/kaynar.md)
 
+### Tatlılar
+
+- [Bisküvi Pastası](https://github.com/karalamalar/yemek-tarifleri/blob/master/tatlilar/biskuvi-pastasi.md)
 
 ### Yasal Uyarı
 
