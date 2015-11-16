@@ -6,20 +6,20 @@ Mutfakta harikalar yaratmak isteyen (ya da aç kalmak istemeyen) yazılımcılar
 
 ### Çorbalar ##
 
-- [Mercimek Çorbası](https://github.com/karalamalar/yemek-tarifleri/blob/master/corbalar/mercimek-corbasi.md)
+- [Mercimek Çorbası](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/corbalar/mercimek-corbasi.md)
 
 ### Yemekler ###
 
-- [Kuru Fasulye (Tamamlanmamış)](https://github.com/karalamalar/yemek-tarifleri/blob/master/yemekler/kuru-fasulye.md)
+- [Kuru Fasulye (Tamamlanmamış)](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/yemekler/kuru-fasulye.md)
 
 ### İçecekler ###
 
-- [Kaynar](https://github.com/karalamalar/yemek-tarifleri/blob/master/icecekler/kaynar.md)
+- [Kaynar](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/icecekler/kaynar.md)
 
 ### Tatlılar ###
 
-- [Bisküvi Pastası](https://github.com/karalamalar/yemek-tarifleri/blob/master/tatlilar/biskuvi-pastasi.md)
-- [Çikolata Drajeki Kakaolu Kurabiye](https://github.com/karalamalar/yemek-tarifleri/blob/master/tatlilar/cikolata-drajeli-kakaolu-kurabiye.md)
+- [Bisküvi Pastası](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/tatlilar/biskuvi-pastasi.md)
+- [Çikolata Drajeki Kakaolu Kurabiye](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/tatlilar/cikolata-drajeli-kakaolu-kurabiye.md)
 
 ### Yasal Uyarı
 
