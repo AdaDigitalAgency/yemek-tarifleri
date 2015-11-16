@@ -1,6 +1,6 @@
 # Bisküvi Pastası #
 
-Basit malzemeler ile
+Basit malzemeler ile kolayca yapabileceğiniz, lezzetli bir pasta.
 
 Afiyet olsun!
 
@@ -10,7 +10,6 @@ Zorluk seviyesi: ★★★☆☆☆☆☆☆☆
 
 - [Malzemeler](#malzemeler)
 - [Alet Edavat](#alet-edavat)
-- [Ön Hazırlık](#on-hazirlik)
 - [Yapılışı](#yapilisi)
 
 ## Malzemeler ##
@@ -18,11 +17,11 @@ Zorluk seviyesi: ★★★☆☆☆☆☆☆☆
 - Pötübör° bisküvi - 2 paket
 - Hazır puding tozu - 1 paket
 - Süt°°
-- Kıyılmış°°° hindistan cevizi || fındık - 1 paket
+- Kıyılmış°°° (hindistan cevizi || fındık) - 1 paket
 
-_° Petit beurre diye yazılır pötübör diye okunur_  
-_°° Puding paketinin arkasındaki tarifte belirtildiği kadar, genelde 750 ml (yaklaşık 3 su bardağı) olur_  
-_°°° Kıyılmış yazmasak meyvenin kendisini kullanmaya çalışanlar olabileceğini düşündük, evet biraz abarttık_
+*° Petit beurre diye yazılır pötübör diye okunur*  
+*°° Puding paketinin arkasındaki tarifte belirtildiği kadar, genelde 750 ml (yaklaşık 3 su bardağı) olur*  
+*°°° Kıyılmış yazmasak meyvenin kendisini kullanmaya çalışanlar olabileceğini düşündük, evet biraz abarttık*
 
 ## Alet Edavat ##
 
@@ -33,9 +32,9 @@ _°°° Kıyılmış yazmasak meyvenin kendisini kullanmaya çalışanlar olabil
 - Buzdolabı
 
 
-_° Çelik ya da teflon tercih sebebi_  
-_°° Tencere teflon ise özellikle tahta olmasına dikkat edin_  
-_°°° [Şöyle](http://www.gittigidiyor.com/arama/?k=silikon+spatula) bir şey oluyor kendileri. Özellikle puding kıvamındaki şeyleri tencerelerden sıyırmak için ve sürmek birebir._
+*° Çelik ya da teflon tercih sebebi*  
+*°° Tencere teflon ise özellikle tahta olmasına dikkat edin*  
+*°°° [Şöyle](http://www.gittigidiyor.com/arama/?k=silikon+spatula) bir şey oluyor kendileri. Özellikle puding kıvamındaki şeyleri tencerelerden sıyırmak için ve sürmek birebir.*
 
 ## Yapılışı ##
 

@@ -26,4 +26,4 @@ Tarif ile ilgili ön hazırlık burada yer alır.
 
 ## Yapılışı ##
 
-Tarifin yapılışu ile ilgili yönergeler burada yer alır
+Tarifin yapılışı ile ilgili yönergeler burada yer alır

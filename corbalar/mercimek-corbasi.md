@@ -46,10 +46,10 @@ Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 - El blenderı°°°°
 - Küçük bir tava°°
 
-_° Alternatif olarak [şu eldivenler](http://www.gittigidiyor.com/arama/?k=patates+soyma+eldiveni) de kullanılabilir_  
-_°° Çelik ya da teflon tercih sebebi_  
-_°°° Tencere teflon ise özellikle tahta olmasına dikkat edin_  
-_°°°° Süzme mercimek kıvamı için olmazsa olmaz_
+*° Alternatif olarak [şu eldivenler](http://www.gittigidiyor.com/arama/?k=patates+soyma+eldiveni) de kullanılabilir*  
+*°° Çelik ya da teflon tercih sebebi*  
+*°°° Tencere teflon ise özellikle tahta olmasına dikkat edin*  
+*°°°° Süzme mercimek kıvamı için olmazsa olmaz*
 
 ## Ön hazırlık ##
 
@@ -61,6 +61,6 @@ Kesme tahtası üzerinde havuçları dilimleyip, patatesleri küp küp doğrayı
 
 Tencereyi ocağa koyup altını yakın. Sıvı yağı tencereye dökün. Kesme tahtası üzerinde bulunan malzemeleri tencereye ekleyin ve bir dakika kadar iyice karıştırın. Mercimek, pirinç karışımını ekleyin, soğanı da bütün olarak tencereye koyun ve tencereye malzemenin üzerine 2 parmak geçecek kadar su doldurun. Bir iki tur karıştırın (malzemenin dibe yapışmadığından emin olun) ve kaynamaya bırakın. Kaynadığında tuz ekleyip karıştırın. Mercimekler ortalarından ayrılana kadar kaynamasına izin verin ve sonra altını kapatın. Çorbanın içinden soğanı alın.
 
-El Blender'ını, tanecik kalmayana kadar çorbanın içinde çalıştırın. Çorbanızı bu haliyle de içebilirsiniz fakat biraz baharat tadı lezzetini artıracaktır. Küçük tavanın içine margarini koyun, kısık ateşte tamamen eritin. Eridiğinde nane, kırmızı pu biber ve kekik ekleyin. Baharatların yanmamasına özen göstererek ateşte biraz tutun. Oluşan karışımı ateşten alın ve çorbanıza katın. Kızgın yağ ile işlem yapacağınız için dikkatli olun, sıçrayabilir.
+El Blender'ını, tanecik kalmayana kadar çorbanın içinde çalıştırın. Çorbanızı bu haliyle de içebilirsiniz fakat biraz baharat tadı lezzetini artıracaktır. Küçük tavanın içine margarini koyun, kısık ateşte tamamen eritin. Eridiğinde nane, kırmızı pul biber ve kekik ekleyin. Baharatların yanmamasına özen göstererek ateşte biraz tutun. Oluşan karışımı ateşten alın ve çorbanıza katın. **Kızgın yağ ile işlem yapacağınız için dikkatli olun, sıçrayabilir.**
 
 Çorbanız hazır, afiyetle yiyebilirsiniz.

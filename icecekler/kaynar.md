@@ -1,6 +1,18 @@
 # Kaynar #
 
-## Malzeme ##
+Kışları gripli ve yer yer burun akıntılı geçenlere hayatı kolaylaştırmak ve yumuşak dokularınızın yumuşaklığını korumak için; Adana yöresinden sıcak içilen bir doğal bitki çayı kaynar. Üstelik hasta çayı içiyor gibi hissetmeyin diye üstüne dövülmüş ceviz ekiyoruz.
+
+Afiyet olsun!
+
+Zorluk seviyesi: ★★☆☆☆☆☆☆☆☆
+
+## İçindekiler ##
+
+- [Malzemeler](#malzemeler)
+- [Alet Edavat](#alet-edavat)
+- [Yapılışı](#yapilisi)
+
+## Malzemeler ##
 
 - Tarçın - 3 çubuk
 - Karanfil - 10 tane
@@ -11,6 +23,10 @@
 - Su - 3 litre
 - Şeker - 1 kase toz şeker
 - Ceviz - 10 tane
+
+## Alet Edavat ##
+
+- Büyük bir tencere
 
 ## Yapılışı ##
 
