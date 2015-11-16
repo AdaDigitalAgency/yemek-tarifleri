@@ -1,8 +1,6 @@
-# Çikolata Drajeki Kakaolu Kurabiye #
+# Çikolata Drajeli Kakaolu Kurabiye #
 
-Basit malzemeler ile kolayca yapabileceğiniz, lezzetli bir pasta.
-
-Afiyet olsun!
+Gece atıştırmaları için pratik ve lezzetli bir kurabiye tarifi.
 
 Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 
@@ -10,8 +8,8 @@ Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 
 - [Malzemeler](#malzemeler)
 - [Alet Edavat](#alet-edavat)
-- [Ön Hazırlık](#on-hazirlik)
-- [Yapılışı](#yapilisi)
+- [Ön Hazırlık](#Ön-hazırlık)
+- [Yapılışı](#yapılışı)
 
 ## Malzemeler ##
 

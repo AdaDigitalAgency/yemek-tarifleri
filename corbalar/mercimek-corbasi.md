@@ -8,11 +8,11 @@ Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 
 ## İçindekiler ##
 
-- [Tanımlar](#tanimlar)
+- [Tanımlar](#tanımlar)
 - [Malzemeler](#malzemeler)
 - [Alet Edavat](#alet-edavat)
-- [Ön Hazırlık](#on-hazirlik)
-- [Yapılışı](#yapilisi)
+- [Ön Hazırlık](#Ön-hazırlık)
+- [Yapılışı](#yapılışı)
 
 ## Tanımlar ##
 

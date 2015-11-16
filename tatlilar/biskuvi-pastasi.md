@@ -10,7 +10,7 @@ Zorluk seviyesi: ★★★☆☆☆☆☆☆☆
 
 - [Malzemeler](#malzemeler)
 - [Alet Edavat](#alet-edavat)
-- [Yapılışı](#yapilisi)
+- [Yapılışı](#yapılışı)
 
 ## Malzemeler ##
 
