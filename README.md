@@ -10,7 +10,7 @@ Mutfakta harikalar yaratmak isteyen (ya da aç kalmak istemeyen) yazılımcılar
 
 ### Yemekler ###
 
-- [Kuru Fasulye (Tamamlanmamış)](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/yemekler/kuru-fasulye.md)
+- [Kuru Fasulye](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/yemekler/kuru-fasulye.md)
 
 ### İçecekler ###
 
