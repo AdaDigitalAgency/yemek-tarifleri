@@ -20,6 +20,7 @@ Mutfakta harikalar yaratmak isteyen (ya da aç kalmak istemeyen) yazılımcılar
 
 - [Bisküvi Pastası](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/tatlilar/biskuvi-pastasi.md)
 - [Çikolata Drajeli Kakaolu Kurabiye](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/tatlilar/cikolata-drajeli-kakaolu-kurabiye.md)
+- [Islak Kek](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/tatlilar/islak-kek.md)
 
 ### Yasal Uyarı
 
