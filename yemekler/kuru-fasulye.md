@@ -1,4 +1,12 @@
-# Kuru Fasulye #
+![Kuru Fasulye](./kuru-fasulye.png)
+
+# Kuru Fasulye
+
+Kuru fasulye, Türk mutfağının en sevilen ve en çok yapılan yemeklerinden biridir. Geleneksel olarak pilav ile servis edilen bu lezzetli yemek, hem doyurucu hem de besleyicidir.
+
+Zorluk seviyesi: ★★★★★☆☆☆☆☆
+
+## İçindekiler
 
 - [Tanımlar](#tanımlar)
 - [Malzemeler](#malzemeler)
@@ -6,12 +14,12 @@
 - [Ön Hazırlık](#Ön-hazırlık)
 - [Yapılışı](#yapılışı)
 
-## Tanımlar ##
+## Tanımlar
 
 **Tutam :** Baş parmağınız, işaret ve orta parmağınızı bir araya getirmek sureti ile tutabileceğiniz ölçeğe tutam denir.
 **Taşım :** Bir tencere içindeki suyun kaynamaya başlaması ve su yüzeyinde büyük kabarcıkların oluşması haline taşım denir.
 
-## Malzemeler ##
+## Malzemeler
 
 - 2 su bardağı kuru fasulye
 - 1 adet kuru soğan
@@ -21,25 +29,25 @@
 - 1 çay kaşığı pul biber (isteğe bağlı)
 - 6 su bardağı su
 
-## Alet Edavat ##
+## Alet Edavat
 
 - Kesme tahtası
 - Bıçak
 - Tencere (Mümkünse düdüklü, değilse çelik)
 - Tahta yemek kaşığı
 
-## Ön hazırlık ##
+## Ön hazırlık
 
-### Bir gece öncesi ###
+### Bir gece öncesi
 
 Kuru fasulyeyi bir gece önceden bol su ile ıslatın.
 
-### Pişirme günü ###
+### Pişirme günü
 
 1. Ertesi gün suyunu süzüp, taze su ile bir taşım kaynatın ve tekrar süzün.
 2. Soğanı ince ince doğrayın.
 
-## Yapılışı ##
+## Yapılışı
 
 1. Tencereye sıvı yağı koyup, doğradığınız soğanları pembeleşene kadar kavurun.
 2. Salçayı ekleyip, kokusu çıkana kadar karıştırarak kavurmaya devam edin.

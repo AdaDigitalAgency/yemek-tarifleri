@@ -1,4 +1,4 @@
-# Başlık #
+# Başlık
 
 - [Tanımlar](#tanımlar)
 - [Malzemeler](#malzemeler)
@@ -6,24 +6,24 @@
 - [Ön Hazırlık](#Ön-hazırlık)
 - [Yapılışı](#yapılışı)
 
-## Tanımlar ##
+## Tanımlar
 
 **XXXX :** XXXX açıklaması
 
-## Malzemeler ##
+## Malzemeler
 
 - XX - Y adet
 - XXX - Y su bardağı
 
-## Alet Edavat ##
+## Alet Edavat
 
 - XXX
 - XX (Gerekliyse parantez içinde açıklama yazılabilir)
 
-## Ön hazırlık ##
+## Ön hazırlık
 
 Tarif ile ilgili ön hazırlık burada yer alır.
 
-## Yapılışı ##
+## Yapılışı
 
 Tarifin yapılışı ile ilgili yönergeler burada yer alır

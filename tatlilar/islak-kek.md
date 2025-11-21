@@ -1,16 +1,18 @@
-# Islak Kek #
+![Islak Kek](./islak-kek.png)
+
+# Islak Kek
 
 Pratik ve lezzetli, kakaolu ıslak kek tarifi.
 
 Zorluk seviyesi: ★★★☆☆☆☆☆☆☆
 
-## İçindekiler ##
+## İçindekiler
 
 - [Malzemeler](#malzemeler)
 - [Alet Edavat](#alet-edavat)
 - [Yapılışı](#yapılışı)
 
-## Malzemeler ##
+## Malzemeler
 
 - Yumurta - 3 adet
 - Şeker - 1+1/4 su bardağı
@@ -21,7 +23,7 @@ Zorluk seviyesi: ★★★☆☆☆☆☆☆☆
 - Kabartma tozu - 1 paket
 - Şekerli vanilin - 1 paket
 
-## Alet Edavat ##
+## Alet Edavat
 
 - Derin bir kap
 - Çırpıcı
@@ -29,7 +31,7 @@ Zorluk seviyesi: ★★★☆☆☆☆☆☆☆
 - Fırın tepsisi veya kek kalıbı
 - Yağlı kağıt veya pişirme kağıdı
 
-## Yapılışı ##
+## Yapılışı
 
 1. Önce yumurta ve şekeri varsa mikser ile yüksek hızda, yoksa çırpıcı ile köpük köpük olana kadar çırpın.
 2. Süt, yağ ve kakaoyu da ekleyin. Karışım homojen olana kadar çırpın.

@@ -1,17 +1,19 @@
-# Çikolata Drajeli Kakaolu Kurabiye #
+![Çikolata Drajeli Kakaolu Kurabiye](./cikolata-drajeli-kakaolu-kurabiye.png)
+
+# Çikolata Drajeli Kakaolu Kurabiye
 
 Gece atıştırmaları için pratik ve lezzetli bir kurabiye tarifi.
 
 Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 
-## İçindekiler ##
+## İçindekiler
 
 - [Malzemeler](#malzemeler)
 - [Alet Edavat](#alet-edavat)
 - [Ön Hazırlık](#Ön-hazırlık)
 - [Yapılışı](#yapılışı)
 
-## Malzemeler ##
+## Malzemeler
 
 - Sıvı yağ - 0,5 su bardağı
 - Tereyağ° - 125 gr
@@ -26,7 +28,7 @@ Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 *° Margarin gibi olanlar var. 250gr'lık oluyorlar ve bu tarif için çok pratik. Direkt yarısını kullanabilirsiniz*  
 *°° M&M 165 gr'lık paketler en iyi tercih olacaktır. Hem renk çeşidi çok, hem de ısıya daha dayanıklı*  
 
-## Alet Edavat ##
+## Alet Edavat
 
 - Derin bir kap
 - Çırpıcı
@@ -37,13 +39,13 @@ Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 
 *° [Şöyle](http://urun.gittigidiyor.com/ev-bahce/schafer-7010-helfer-patates-ezici-193786685) bir şey oluyor kendileri. Hamuru elinizle de yoğurabilirsiniz fakat başlarda çok bulaşıyor. Bununla ele yapışmayacak kıvama gelene kadar kolayca yoğurabilirsiniz.*
 
-## Ön hazırlık ##
+## Ön hazırlık
 
 Başlamadan 15-20 dakika öne tereyağı dolaptan çıkartıp oda sıcaklığına alın. Yaparken yumuşamış olması hamurun yoğrulmasını kolaylaştıracaktır.
 
 Pişirme kağıdını fırın tepsisini kaplayacak şekilde kesip yerleştirin.
 
-## Yapılışı ##
+## Yapılışı
 
 Un ve kabartma tozu hariç diğer tüm malzemeleri derin bir kabın içine doldurun ve bir çırpıcı yardımı ile iyice çırpın. Üzerine unu ve kabartma tozunu ilave edin. Patates ezici ile yoğurmaya başlayın. Un ve kabartma tozu diğer malzemelere tamamen karışana kadar patates ezici ile yoğurun. Sonra elinizde biraz daha yoğurun. Hamur çok sert olduysa yumuşaması için biraz yağ ekleyebilirsiniz. Dikkat edin, ayarı fazla kaçırmayın.
 

@@ -1,4 +1,6 @@
-# Mercimek Çorbası #
+![Mercimek Çorbası](./mercimek-corbasi.png)
+
+# Mercimek Çorbası
 
 Yemek yapmaya uzak kişiler ya da hazır çorba tüketen kişiler için çorba yapma fikri biraz ürkütücü olabilir, fakat bir çok çorba aslen oldukça kolay bir şekilde yapılabiliyor. (Çoğunun tarifinin birbirlerine çok benzer olduğunu söyleyebilirim) Bu tarif ile el blenderına sahip kişiler süzme mercimek çorbası kıvamını yakalayabileceklerken, olmayanlar ise, taneli, hafiften yemeğe benzeyen kıvamda bir çorba yapabilecekler.
 
@@ -6,7 +8,7 @@ Afiyet olsun!
 
 Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 
-## İçindekiler ##
+## İçindekiler
 
 - [Tanımlar](#tanımlar)
 - [Malzemeler](#malzemeler)
@@ -14,11 +16,11 @@ Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 - [Ön Hazırlık](#Ön-hazırlık)
 - [Yapılışı](#yapılışı)
 
-## Tanımlar ##
+## Tanımlar
 
 **Tutam :** Baş parmağınız, işaret ve orta parmağınızı bir araya getirmek sureti ile tutabileceğiniz ölçeğe tutam denir.
 
-## Malzemeler ##
+## Malzemeler
 
 - Sıvı ayçiçek yağı - Yarım çay bardağı
 - Patates - 2 adet, orta boy
@@ -33,7 +35,7 @@ Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 - Tuz - 1 tutam
 - Su
 
-## Alet Edavat ##
+## Alet Edavat
 
 - Kesme tahtası
 - Bıçak
@@ -51,11 +53,11 @@ Zorluk seviyesi: ★★★★☆☆☆☆☆☆
 *°°° Tencere teflon ise özellikle tahta olmasına dikkat edin*  
 *°°°° Süzme mercimek kıvamı için olmazsa olmaz*
 
-## Ön hazırlık ##
+## Ön hazırlık
 
 Patatesleri ve havucu güzelce yıkayıp, kabuklarını soyun. Büyük ihtimal kabuklarını soyarken tekrar kirleneceği için, soyduktan sonra tekrar yıkayın. Soğanın kabuğunu soyun, gerekirse yıkayın da. Kırmızı mercimeği ve pirinci bir kapta birleştirip, üzeri bir parmak geçecek şekilde su koyun. Karıştırdığınızda suyun bulandığını göreceksiniz. İyice karıştırdıktan sonra bulanan suyu döküp yeniden su doldurun. Karıştırmanız neticesinde suyun bulanmadığını ya da çok az bulandığını görene kadar bu işleme devam edin.
 
-## Yapılışı ##
+## Yapılışı
 
 Kesme tahtası üzerinde havuçları dilimleyip, patatesleri küp küp doğrayın. Malzememiz az olduğundan kesme tahtası üzerindeki alan bu işlemler için yetecektir. Dilimlenmiş/doğranmış malzemeyi tahtanın üzerinde sonra kullanmak üzere bırakın.
 

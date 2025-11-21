@@ -1,4 +1,6 @@
-# Bisküvi Pastası #
+![Bisküvi Pastası](./biskuvi-pastasi.png)
+
+# Bisküvi Pastası
 
 Basit malzemeler ile kolayca yapabileceğiniz, lezzetli bir pasta.
 
@@ -6,13 +8,13 @@ Afiyet olsun!
 
 Zorluk seviyesi: ★★★☆☆☆☆☆☆☆
 
-## İçindekiler ##
+## İçindekiler
 
 - [Malzemeler](#malzemeler)
 - [Alet Edavat](#alet-edavat)
 - [Yapılışı](#yapılışı)
 
-## Malzemeler ##
+## Malzemeler
 
 - Pötübör° bisküvi - 2 paket
 - Hazır puding tozu - 1 paket
@@ -23,7 +25,7 @@ Zorluk seviyesi: ★★★☆☆☆☆☆☆☆
 *°° Puding paketinin arkasındaki tarifte belirtildiği kadar, genelde 750 ml (yaklaşık 3 su bardağı) olur*  
 *°°° Kıyılmış yazmasak meyvenin kendisini kullanmaya çalışanlar olabileceğini düşündük, evet biraz abarttık*
 
-## Alet Edavat ##
+## Alet Edavat
 
 - Tencere°
 - Tahta yemek kaşığı°°
@@ -36,7 +38,7 @@ Zorluk seviyesi: ★★★☆☆☆☆☆☆☆
 *°° Tencere teflon ise özellikle tahta olmasına dikkat edin*  
 *°°° [Şöyle](http://www.gittigidiyor.com/arama/?k=silikon+spatula) bir şey oluyor kendileri. Özellikle puding kıvamındaki şeyleri tencerelerden sıyırmak için ve sürmek birebir.*
 
-## Yapılışı ##
+## Yapılışı
 
 Puding paketinin arkasındaki tarife göre pudinginizi hazırlayın. Aldığınız pakete göre farklılık gösterebilir fakat genelde malzemeleri karıştırtıktan sonra kaynayana kadar pişirip, kaynayınca altını kısıp, puding kıvamına gelene kadar 5-10 dakika daha pişirerek pudingi yapabilirsiniz. Vaktiniz varsa ve pudingin erken katılaşmasını istemiyoranız, ocağın altını kapattıktan sonra 8-10 dakika daha pudingi karıştırarak soğutabilirsiniz.
 
