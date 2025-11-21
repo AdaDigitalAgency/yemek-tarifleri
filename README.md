@@ -4,6 +4,8 @@ Mutfakta harikalar yaratmak isteyen (ya da aç kalmak istemeyen) yazılımcılar
 
 ## Tarifler
 
+Aşağıda kategorilere ayrılmış tariflere ulaşabilirsiniz. Tariflerdeki görseller Neo Banana Pro ile oluşturulmuştur.
+
 ### Çorbalar
 
 - [Mercimek Çorbası](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/corbalar/mercimek-corbasi.md)
