@@ -4,7 +4,7 @@ Mutfakta harikalar yaratmak isteyen (ya da aç kalmak istemeyen) yazılımcılar
 
 ## Tarifler
 
-Aşağıda kategorilere ayrılmış tariflere ulaşabilirsiniz. Tariflerdeki görseller Neo Banana Pro ile oluşturulmuştur.
+Aşağıda kategorilere ayrılmış tariflere ulaşabilirsiniz. Tariflerdeki görseller Nano Banana Pro ile oluşturulmuştur.
 
 ### Çorbalar
 
@@ -27,6 +27,7 @@ Aşağıda kategorilere ayrılmış tariflere ulaşabilirsiniz. Tariflerdeki gö
 ### Hamur İşi
 
 - [Neapolitan Pizza](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/hamur-isi/neapolitan-pizza.md)
+- [Yeni Yıl Kurabiyesi](https://github.com/AdaDigitalAgency/yemek-tarifleri/blob/master/hamur-isi/yeni-yil-kurabiyesi.md)
 
 ### Yasal Uyarı
 
